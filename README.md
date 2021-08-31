@@ -3,6 +3,8 @@
 # Eleventy Netlify Boilerplate
 
 ## [Demo Site](https://eleventy-netlify-boilerplate.netlify.app/)
+## [Smashing Magazine article](https://www.smashingmagazine.com/2020/12/wordpress-eleventy-static-site-generator/)
+## [Wordpress XML converter](https://github.com/lonekorean/wordpress-export-to-markdown)
 
 ## What is it?
 
