@@ -19,5 +19,3 @@ Capcom have had a decent stab at porting some of their fighters to touch screen 
 It's interesting to see the different approaches of Nintendo and Capcom to their upcoming game-accompanying apps; the [Mario Kart 8 app](http://uk.ign.com/articles/2014/05/08/mario-kart-8-smartphone-app-incoming) will probably act equally as well as a draw to new gamers and help encourage sales by showcasing race highlights, whereas the Ultra Street Fighter IV app looks like it might cater for the hardcore fighting game crowd.
 
 If Capcom produced an app which helped newcomers to Street Fighter learn the game, or helped share matches across social media, then they would surely grow their user base.
-
-![](http://p.twpl.jp/show/orig/L3wWL)
