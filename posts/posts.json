@@ -1,7 +1,7 @@
 {
   "layout": "layouts/post.njk",
   "permalink": "posts/{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/{{ title | slug }}/index.html",
-  "author": "Anonymous",
+  "author": "coderkind",
   "tags": [
     "post"
   ]
