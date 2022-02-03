@@ -26,6 +26,10 @@ main {
 	max-width: 37.5em;
 }
 
+h2 {
+	font-size: 1.17em;
+}
+
 p,
 pre,
 code {
